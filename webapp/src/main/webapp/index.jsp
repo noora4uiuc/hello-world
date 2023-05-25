@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you, docker CI CD shikhechi </h1>
+   <h1> Thank you, docker + ansible CI CD shikhechi </h1>
 
   
 </form>
